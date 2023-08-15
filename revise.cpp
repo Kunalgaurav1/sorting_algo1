@@ -5,6 +5,8 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
+
+//square of a number 
 /* 
 
 #include <iostream>
@@ -32,6 +34,24 @@ int main()
 */
 
 
+
+
+
+
+
+
+
+
+//printing evensum and oddsum of a number 
+/*
+
+eg.
+
+23456
+evennumber is -- 2,4,6  ==>> sum is 12
+oddnumber is --3, 5 ==>> sum is 8
+
+*/
 /* 
 
 
@@ -62,6 +82,14 @@ int main(){
 
 */
 
+
+
+
+
+
+
+
+//reverse a number
 /* 
 
 #include<iostream>
@@ -93,6 +121,14 @@ int main(){
 }
 */
 
+
+
+
+
+
+
+
+//count number of factor of a given number 
 
 /* 
 
@@ -126,6 +162,23 @@ int main(){
 }
 */
 
+
+
+
+
+
+
+
+
+//star printing 
+
+/*
+*
+**
+***
+****
+*/
+
 /* #include<iostream>
 using namespace std;
 
@@ -157,11 +210,25 @@ int main(){
         i++;
     }
     return 0;
-} */
+} 
 
 
-/* 
 
+
+
+
+
+
+//REVERSE NUMBER PATTERN 
+
+/*
+1
+21
+321
+4321
+
+*/
+/*
 #include<iostream>
 using namespace std;
 
@@ -182,7 +249,24 @@ int main(){
     }
     return 0;
 }
+
 */
+
+
+
+
+
+
+
+//char pattern
+
+/*
+A
+BB
+CCC
+DDDD
+*/
+
 
 /*
 
@@ -209,6 +293,22 @@ int main(){
 }
 */
 
+
+
+
+
+
+
+
+
+//charecter pattern
+/*
+A
+BC
+CDE
+DEFG
+*/
+
 /*
 
 #include<iostream>
@@ -232,6 +332,13 @@ int main(){
 }
 */
 
+
+
+
+
+
+
+//number is prime or not 
 /*
 #include<iostream>
 
@@ -266,6 +373,12 @@ int main(){
 
 */
 
+
+
+
+
+
+//find maximum element in an array
 /*
 
 #include<iostream>
@@ -314,8 +427,16 @@ main ()
 }
 */
 
-/*
 
+
+
+
+
+
+
+//total sum of given array
+
+/*
 #include<iostream>
 using namespace std;
 
@@ -346,6 +467,12 @@ int main(){
 }
 */
 
+
+
+
+
+
+//reverse a given array
 /*
 
 #include<iostream>
@@ -389,6 +516,14 @@ int main(){
 */
 
 
+
+
+
+
+
+
+
+//alternate swapping in a array
 /*
 #include<iostream>
 #include<vector>
@@ -427,6 +562,14 @@ int main(){
 
 */
 
+
+
+
+
+
+
+
+//number palindrome 
 /*
 
 #include<iostream>
@@ -465,6 +608,16 @@ int main(){
 }
 */
 
+
+
+
+
+
+
+//string palindrome
+
+/*
+
 #include<iostream>
 using namespace std;
 
@@ -491,5 +644,7 @@ int main(){
     
     return 0;
 }
+*/
+
 
 
